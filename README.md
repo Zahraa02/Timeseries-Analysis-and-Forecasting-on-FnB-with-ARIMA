@@ -63,7 +63,7 @@ This project demonstrates how **time series modeling** transforms raw transactio
 - 🏆 **Score:** 36/36 for forecasting accuracy and model evaluation  
 - 🎯 **Impact:** Enables proactive resource planning and efficient operational management  
 
-## 🌐 HTML Report  
+## 💻 HTML Report  
 View the complete project report with code, visualizations, and forecasting results:  
 [FnB Time Series Forecasting Report](https://zahraa02.github.io/Algoritma_ML_Timeseries-Analysis-Forecasting-on-FnB/)
 
