@@ -65,7 +65,7 @@ This project demonstrates how **time series modeling** transforms raw transactio
 
 ## 🌐 HTML Report  
 View the complete project report with code, visualizations, and forecasting results:  
-[FnB Time Series Forecasting Report](https://zahraa02.github.io/FnB-Timeseries-Report-Zahra-Nur-Anisah/)  
+[FnB Time Series Forecasting Report](https://zahraa02.github.io/Algoritma_ML_Timeseries-Analysis-Forecasting-on-FnB/)
 
 ## 👩🏻‍💻 Author  
 **Zahra Nur Anisah** – Data Science Enthusiast  
