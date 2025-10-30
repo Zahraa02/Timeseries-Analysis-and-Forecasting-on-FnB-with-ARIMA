@@ -47,10 +47,10 @@ This project focuses on:
    - Visualize and interpret the forecast results.  
 
 ## 🧠 Technical Stack  
-- **Language:** Python  
-- **Libraries:** Pandas, NumPy, Scikit-Learn, Statsmodels, TBATS, Matplotlib, Seaborn  
-- **Techniques:** Time Series Forecasting (ARIMA, Holt-Winters, TBATS), Seasonal Decomposition  
-- **Environment:** Jupyter Notebook  
+- **Language:** R  
+- **Libraries:** forecast, tseries, ggplot2, dplyr, lubridate  
+- **Techniques:** Time Series Forecasting (ARIMA, Holt-Winters, TBATS), Seasonal Decomposition, Model Evaluation (MAE)  
+- **Environment:** RStudio / R Markdown
 
 ## 💡 Why This Matters  
 Accurate visitor demand forecasting helps **FnB businesses** make informed decisions about **staffing, inventory, and operations**, reducing waste and optimizing resource allocation.  
