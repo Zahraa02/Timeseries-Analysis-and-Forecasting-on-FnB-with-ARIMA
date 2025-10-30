@@ -1,6 +1,6 @@
 # 🤖 FnB Visitor Traffic Forecasting with Time Series Analysis  
 
-A machine learning project that applies **time series forecasting** to predict hourly visitor traffic across **dine-in, delivery, and takeaway** services, built using **R, forecast, and tseries**.  
+A machine learning project that applies **time series forecasting** to predict hourly visitor traffic across **dine-in, delivery, and takeaway** services, built using **R** with the **forecast and tseries** libraries.  
 
 
 ## 🚀 Overview  
